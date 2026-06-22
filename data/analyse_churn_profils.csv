@@ -1,0 +1,7 @@
+Categorie,Total,Churned,Taux_Churn_%,Variable
+Senior,1142,476,41.7,SeniorCitizen
+Non-Senior,5890,1393,23.7,SeniorCitizen
+No,3639,1200,33.0,Partner
+Yes,3393,669,19.7,Partner
+No,4933,1543,31.3,Dependents
+Yes,2099,326,15.5,Dependents

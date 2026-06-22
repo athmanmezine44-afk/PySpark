@@ -1,0 +1,5 @@
+PaymentMethod,Total,Churned,Active,Taux_Churn_%
+Electronic check,2365,1071,1294,45.3
+Mailed check,1604,308,1296,19.2
+Bank transfer (automatic),1542,258,1284,16.7
+Credit card (automatic),1521,232,1289,15.3
